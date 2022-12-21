@@ -48,7 +48,7 @@ User registration screen  😎
 
 ```bash
 # Clone Repository
-$ git clone 
+$ git clone https://github.com/jj-soares/first-project-react/blob/master/README.md
 
 # Install Dependencies
 $ yarn install or npm install
