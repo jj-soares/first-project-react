@@ -6,6 +6,16 @@ User registration screen  😎
   😉 First project created with React.js
 </h4>
 
+## Photos
+
+<div align='center' >
+
+   <img src="./public/readme-assets/cadastro.gif" >
+   
+
+ </div>
+
+
 <p align="center">   
    <a href="#on">On</a> .
    <a href="#roadmap">Roadmap</a> .
@@ -63,14 +73,6 @@ $ git clone https://github.com/jj-soares/first-project-nodejs
 Go to http://localhost:3000/ to see the result.
 
    
-## Photos
-   <img src="./public/readme-assets/img1.JPG" width='50%' >
-    
-   <img src="./public/readme-assets/img2.JPG" width= '50%' >
-    
-   <img src="./public/readme-assets/img.JPG" width= '50%' >
-   
-   <img src="./public/readme-assets/print.gif" width='80%'  >
 
 ## Author
    <p> Hello, my name is João. <br> Follow me on <a href="https://www.linkedin.com/in/jo%C3%A3o-soares13/" target="_blank">Linkedin</a> to see more about the projects I post.!</p>
