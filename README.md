@@ -17,11 +17,11 @@ User registration screen  😎
 
 
 <p align="center">   
-   <a href="#on">On</a> .
-   <a href="#roadmap">Roadmap</a> .
-   <a href="#technologies">Technologies</a> .
-   <a href="#photos">Photos</a> . 
-   <a href="#author">Author</a> 
+   <a href="#On">On</a> .
+   <a href="#Roadmap">Roadmap</a> .
+   <a href="#Technologies">Technologies</a> .
+   <a href="#Photos">Photos</a> . 
+   <a href="#Author">Author</a> 
    
  </p>
 
@@ -75,7 +75,7 @@ Go to http://localhost:3000/ to see the result.
    
 
 ## Author
-   <p> Hello, my name is João. <br> Follow me on <a href="https://www.linkedin.com/in/jo%C3%A3o-soares13/" target="_blank">Linkedin</a> to see more about the projects I post.!</p>
+   <p> Hello, my name is João. <br> Follow me on <a href="https://www.linkedin.com/in/joaosoaressilva/" target="_blank">Linkedin</a> to see more about the projects I post.!</p>
 
 ## License 
 
